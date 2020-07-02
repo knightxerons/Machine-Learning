@@ -1,2 +1,1 @@
-# Machine-Learning
-Udemy Machine learning Master repo
+Machine learning Master repo
